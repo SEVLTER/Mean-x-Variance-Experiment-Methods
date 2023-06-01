@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Rudgers
+    given-names: Jennifer
+    orcid: https://orcid.org/0000-0001-7094-4857
+title: SEVLTER/Mean-x-Variance-Experiment-Methods: Mean-x-Variance-Experiment-Methods
+version: v1.0
+date-released: 2023-06-01
